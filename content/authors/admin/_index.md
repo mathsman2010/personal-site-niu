@@ -10,7 +10,7 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Laboratory Jacques-Louis Lions, Sorbonne University
+- name: Laboratoire Jacques-Louis Lions, Sorbonne Université
   url: https://www.ljll.math.upmc.fr/
 
 # Interests to show in About widget
