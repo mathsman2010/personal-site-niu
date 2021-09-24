@@ -45,10 +45,10 @@ social:
   link: https://scholar.google.com/citations?user=oa2kys4AAAAJ&hl=en
 - icon: orcid
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://orcid.org/0000-0003-0602-4444
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
