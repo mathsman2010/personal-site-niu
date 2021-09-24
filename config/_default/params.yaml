@@ -125,7 +125,10 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
+  lat: '48.84671025501151'
+  lng: '2.354895369311538'
+  dir: '4 place Jussieu, Paris, 75005'
   api_key: ''
   zoom: 15
 marketing:
