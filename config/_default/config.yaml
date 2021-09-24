@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jingrui NIU# Website name
-baseurl: 'https://www.ljll.math.upmc.fr/~lu/' # Website URL
+baseurl: 'https://www.niu-personal-site.netlify.app' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
