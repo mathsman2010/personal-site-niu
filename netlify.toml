@@ -3,7 +3,9 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.87.0"
+  npm install
+  npm run make:prepare
+  HUGO_VERSION = "0.87.0" npm run serve
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
