@@ -69,4 +69,4 @@ I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervisi
 <a href="https://www.ceremade.dauphine.fr/~lissy/eng-index.html" target="_blank">Pierre Lissy</a>.<p>
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
