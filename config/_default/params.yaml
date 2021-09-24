@@ -28,7 +28,7 @@ address:
   # region: CA
   postcode: '75005'
   country: France
-  country_code: US
+  country_code: FR
 coordinates:
   latitude: '48.84671025501151'
   longitude: '2.354895369311538'
