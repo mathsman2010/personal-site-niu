@@ -66,9 +66,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<h5>Welcome to my professional web page</h5>
+ 	<p>I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervision of 
+<a href="https://anadel.math.cnrs.fr/members/ioana/" target="_blank">Oana Ivanovici</a>. I am also a member of the project <a href="https://anadel.math.cnrs.fr/" target="_blank">ERC ANADEL</a>. I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of 
+<a href="https://www.imo.universite-paris-saclay.fr/~nb/" target="_blank">Nicolas Burq</a> and 
+<a href="https://www.ceremade.dauphine.fr/~lissy/eng-index.html" target="_blank">Pierre Lissy</a>.<p>
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
