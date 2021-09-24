@@ -66,8 +66,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<h5>Welcome to my professional web page</h5>
- 	<p>I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervision of 
+I am currently a post-doc at Laboratoire Jacques Louis-Lions under the supervision of 
 <a href="https://anadel.math.cnrs.fr/members/ioana/" target="_blank">Oana Ivanovici</a>. I am also a member of the project <a href="https://anadel.math.cnrs.fr/" target="_blank">ERC ANADEL</a>. I obtained my Ph.D. degree at Université Paris-Saclay under the supervision of 
 <a href="https://www.imo.universite-paris-saclay.fr/~nb/" target="_blank">Nicolas Burq</a> and 
 <a href="https://www.ceremade.dauphine.fr/~lissy/eng-index.html" target="_blank">Pierre Lissy</a>.<p>
