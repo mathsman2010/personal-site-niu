@@ -1,26 +1,23 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jingrui NIU(牛景瑞)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+- name: Laboratory Jacques-Louis Lions, Sorbonne University
+  url: https://www.ljll.math.upmc.fr/
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Microlocal Analysis 
+- Controllability and Stabilization of dispersive equations
+- Wave and Schrödinger Equations
 
 # Education to show in About widget
 education:
