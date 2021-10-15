@@ -7,31 +7,31 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 40
 
-title: 'Recent & Upcoming Talks'
+title: 'Talks'
 subtitle:
 
-content:
+# content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  # page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  # count: 5
   # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
+  # filters:
+  #  author: ""
+  #  category: ""
+  #  tag: ""
+  #  exclude_featured: false
+  #  exclude_future: false
+  #  exclude_past: false
+  #  publication_type: ""
   # Choose how many pages you would like to offset by
-  offset: 0
+  # offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # order: desc
 
-design:
+# design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
@@ -39,3 +39,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+- Shanghai, August 21, 2019\
+   *Microlocal methods on the controllability of wave equations*
