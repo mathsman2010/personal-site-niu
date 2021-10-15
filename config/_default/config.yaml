@@ -4,15 +4,15 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jingrui NIU
-baseurl: 'https://www.niu-personal-site.netfily.app'
-copyright: '© {year} Me'
+baseurl: 'https://www.ljll.math.upmc.fr/~lu/'
+copyright: ''
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
