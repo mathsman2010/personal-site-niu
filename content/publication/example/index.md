@@ -31,49 +31,7 @@ publication_types: ["2"]
 
 abstract: In this paper, we study the simultaneous controllability of wave systems in an open domain of $\R^d$, $d\in\N^*$. We obtain a partial controllability result on a finite co-dimensional space for wave equations coupled by a single control function. We use microlocal defect measures and the unique continuation property of eigenfunctions to prove that an appropriate observability inequality holds for wave equations with space varying and different speeds coupled by a single control function. For the unique continuation property of eigenfunctions, we construct a counterexample to show that in some metrics, the unique continuation property does not hold. Moreover, we study different conditions to ensure the unique continuation property. We also extend our result to the case of constant coefficients and possibly multiple control functions. In this context, we prove the controllability property is equivalent to an appropriate Kalman rank condition.
 
-# Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects:
-# - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
+url_preprint: https://hal.archives-ouvertes.fr/hal-02483310v2
 ---
 
 {{% callout note %}}
