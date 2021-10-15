@@ -28,7 +28,7 @@ education:
   - course: Master in Mathematics and Applications
     institution: Université Paris-Saclay
     year: 2017
-  - course: Bachelor of Science in Pure and Applied Mathematics
+  - course: BSc in Pure and Applied Mathematics
     institution: Nankai University
     year: 2014
 
@@ -58,7 +58,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "niu@ljll.math.upmc.fr"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
