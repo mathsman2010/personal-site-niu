@@ -13,11 +13,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-# date: "2013-07-01T00:00:00Z"
+date: "2021-07-30T00:00:00Z"
 doi: "https://doi.org/10.1137/20M1320134"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2021-07-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,12 +26,12 @@ doi: "https://doi.org/10.1137/20M1320134"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Wowchemy Conference*
-# publication_short: In *ICW*
+ publication: In *SIAM Journal on Control and Optimization*
+ publication_short: In *SIAM J. Control Optim.*
 
 abstract: In this paper, we study the simultaneous controllability of wave systems in an open domain of $\R^d$, $d\in\N^*$. We obtain a partial controllability result on a finite co-dimensional space for wave equations coupled by a single control function. We use microlocal defect measures and the unique continuation property of eigenfunctions to prove that an appropriate observability inequality holds for wave equations with space varying and different speeds coupled by a single control function. For the unique continuation property of eigenfunctions, we construct a counterexample to show that in some metrics, the unique continuation property does not hold. Moreover, we study different conditions to ensure the unique continuation property. We also extend our result to the case of constant coefficients and possibly multiple control functions. In this context, we prove the controllability property is equivalent to an appropriate Kalman rank condition.
 
-Summary. An optional shortened abstract.
+# Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
